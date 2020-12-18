@@ -4,4 +4,7 @@ A simple chatting system client to server writtin in rust
 
 ## Screenshots
 
-![Server](/screenshots/server.png)![Client](/screenshots/client.png)
+<p float="left">
+  <img src="/screenshots/server.png" width="100" />
+  <img src="/screenshots/client.png" width="100" /> 
+</p>
