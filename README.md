@@ -1,6 +1,6 @@
 # Rust-server-client-chat
 
-A simple chatting system client to server written in rust
+A simple chatting system client and server written in rust
 
 ## Screenshots
 
